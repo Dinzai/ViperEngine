@@ -1,0 +1,1 @@
+Python 3 is the front end, scripting language for this very basic framework showcasing how c++ can be used for a rendering/physics based backend, while python is used as a scripting language. This was an expiermentation to teach my self how different systems can work together
